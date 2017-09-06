@@ -99,3 +99,4 @@ ENV/
 
 # mypy
 .mypy_cache/
+/docs/analise/Novo_projeto.txt
